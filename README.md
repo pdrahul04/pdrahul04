@@ -1,35 +1,29 @@
 # 💫 About Me:
 Passionate and Results-Driven Full Stack Software Engineer
 
-With over 5 years of experience in designing, developing, and optimizing large-scale enterprise applications, I thrive on challenges and stepping out of my comfort zone. My expertise spans across Microsoft .NET Core, Microservices, CQRS, Angular, and MERN stack, with a strong foundation in data structures, algorithms, and Object-Oriented design principles.
+With 5+ years of experience, I specialize in designing and optimizing scalable, high-performance applications. My expertise includes .NET Core, Microservices, CQRS, Angular, and MERN stack, backed by strong knowledge of data structures, algorithms, and OOP principles.
 
-I specialize in building scalable, high-performance applications and have a proven track record of working with both small (5-member) and large (30-member) cross-functional teams in product-based companies.
-
+I thrive in diverse team environments, having worked with teams ranging from 5 to 30 members in product-based companies.
+-----------------------------------------------------------------------------------------------------------------------------------
 Technical Skills
-Backend Development: .NET Core, C#, Microservices, CQRS, Event-Driven Architecture, RESTful APIs.
-
-Frontend Development: Angular, TypeScript, React JS.
-
-Databases: Microsoft SQL Server, MongoDB, ElasticSearch, MySQL.
-
-Cloud & DevOps: Azure Active Directory (AD), PowerShell, ARM Templates.
-
-Tools & Frameworks: Entity Framework Core (EF Core), RabbitMQ, ActiveMQ, Design Patterns.
+Backend: .NET Core, C#, Microservices, CQRS, RESTful APIs.
+Frontend: Angular, TypeScript, React JS.
+Databases: MS SQL Server, MongoDB, ElasticSearch, MySQL.
+Cloud & DevOps: Azure AD, PowerShell, ARM Templates.
+Tools: EF Core, RabbitMQ, ActiveMQ, Design Patterns.
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Key Achievements
-Developed and optimized high-performance APIs for industries such as travel and banking, enhancing operational efficiency and user experience.
+Built high-performance APIs for travel and banking sectors, improving efficiency and user experience.
+Designed scalable microservices using RabbitMQ and ActiveMQ for seamless integration.
+Automated cloud deployments with PowerShell and ARM Templates, enhancing deployment efficiency.
 
-Built scalable microservices and event-driven architectures, leveraging tools like RabbitMQ and ActiveMQ for seamless system integration.
+---------------------------------------------------------------------------------------------------------------------------------------
+What I Bring
 
-Automated cloud deployment processes using PowerShell and ARM Templates, reducing manual effort and improving deployment efficiency.
-
-What I Bring to the Table
-Problem-Solving: Adept at using software engineering principles, software architecture, and analysis & design to solve complex challenges.
-
-Collaboration: A fast learner and team player, always eager to learn from seniors, peers, and juniors alike. I take pride in sharing knowledge and supporting teammates to achieve collective success.
-
-Innovation: Passionate about leveraging technology to deliver innovative solutions that drive business growth.
-
+Problem-Solving: Skilled in software architecture, analysis, and design.
+Collaboration: A fast learner who values teamwork and knowledge sharing.
+Innovation: Passionate about leveraging technology to drive business growth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulprasad04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdrahul13@gmail.com) 
