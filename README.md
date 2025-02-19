@@ -1,5 +1,34 @@
 # 💫 About Me:
-Passionate and Results-Driven Full Stack Software Engineer With over 5 years of experience in designing, developing, and optimizing large-scale enterprise applications, I thrive on challenges and stepping out of my comfort zone. My expertise spans across Microsoft .NET Core, Microservices, CQRS, Angular, and MERN stack, with a strong foundation in data structures, algorithms, and Object-Oriented design principles.<br>I specialize in building scalable, high-performance applications and have a proven track record of working with both small (5-member) and large (30-member) cross-functional teams in product-based companies. My technical skills include:<br>* Backend Development: .NET Core, C#, Microservices, CQRS, Event-Driven Architecture, RESTful APIs.<br>* Frontend Development: Angular, TypeScript, React JS.<br>* Databases: Microsoft SQL Server, MongoDB, ElasticSearch, MySQL.<br>* Cloud & DevOps: Azure Active Directory (AD), PowerShell, ARM Templates.<br>* Tools & Frameworks: Entity Framework Core (EF Core), RabbitMQ, ActiveMQ, Design Patterns.<br>I am adept at problem-solving using software engineering principles, software architecture, and analysis & design. My experience includes integrating third-party APIs, automating cloud solutions, and optimizing databases for performance and scalability.<br>A fast learner and collaborative team player, I am always eager to learn from seniors, peers, and juniors alike. I take pride in sharing knowledge and supporting my teammates to achieve collective success.<br>Key Achievements:<br>* Developed and optimized high-performance APIs for industries such as travel and banking, enhancing operational efficiency and user experience.<br>* Built scalable microservices and event-driven architectures, leveraging tools like RabbitMQ and ActiveMQ for seamless system integration.<br>* Automated cloud deployment processes using PowerShell and ARM Templates, reducing manual effort and improving deployment efficiency.<br>I am passionate about leveraging technology to solve complex problems and deliver innovative solutions that drive business growth.
+Passionate and Results-Driven Full Stack Software Engineer
+
+With over 5 years of experience in designing, developing, and optimizing large-scale enterprise applications, I thrive on challenges and stepping out of my comfort zone. My expertise spans across Microsoft .NET Core, Microservices, CQRS, Angular, and MERN stack, with a strong foundation in data structures, algorithms, and Object-Oriented design principles.
+
+I specialize in building scalable, high-performance applications and have a proven track record of working with both small (5-member) and large (30-member) cross-functional teams in product-based companies.
+
+Technical Skills
+Backend Development: .NET Core, C#, Microservices, CQRS, Event-Driven Architecture, RESTful APIs.
+
+Frontend Development: Angular, TypeScript, React JS.
+
+Databases: Microsoft SQL Server, MongoDB, ElasticSearch, MySQL.
+
+Cloud & DevOps: Azure Active Directory (AD), PowerShell, ARM Templates.
+
+Tools & Frameworks: Entity Framework Core (EF Core), RabbitMQ, ActiveMQ, Design Patterns.
+
+Key Achievements
+Developed and optimized high-performance APIs for industries such as travel and banking, enhancing operational efficiency and user experience.
+
+Built scalable microservices and event-driven architectures, leveraging tools like RabbitMQ and ActiveMQ for seamless system integration.
+
+Automated cloud deployment processes using PowerShell and ARM Templates, reducing manual effort and improving deployment efficiency.
+
+What I Bring to the Table
+Problem-Solving: Adept at using software engineering principles, software architecture, and analysis & design to solve complex challenges.
+
+Collaboration: A fast learner and team player, always eager to learn from seniors, peers, and juniors alike. I take pride in sharing knowledge and supporting teammates to achieve collective success.
+
+Innovation: Passionate about leveraging technology to deliver innovative solutions that drive business growth.
 
 
 ## 🌐 Socials:
